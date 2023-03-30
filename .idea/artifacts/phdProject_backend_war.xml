@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="phdProject-backend:war">
+    <output-path>$PROJECT_DIR$/phdProject-backend/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>phdProject-backend</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="phdProject-backend-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="phdProject-backend:war exploded" />
+    </root>
+  </artifact>
+</component>
